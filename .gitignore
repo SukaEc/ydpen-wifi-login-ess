@@ -1,0 +1,16 @@
+node_modules/
+.falcon_/
+syncheck/
+*.amr
+amr-inspect/
+dl/
+*.png
+# 真机界面截图 (README 展示用)
+!screenshots/*.png
+
+out/
+*.log
+build/
+
+# 本地测试脚本 (不随仓库发布)
+test/

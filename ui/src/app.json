@@ -1,0 +1,11 @@
+{
+  "pages": {
+    "index": "pages/index/index.vue",
+    "management": "pages/management/management.vue",
+    "log": "pages/log/log.vue",
+    "about": "pages/about/about.vue"
+  },
+  "options": {
+    "style": {}
+  }
+}
